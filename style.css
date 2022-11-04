@@ -1,0 +1,30 @@
+nav {
+    font-size: 30px;
+}
+nav li {
+    display: inline;
+    margin: 0 0 0 30%;
+}
+header {
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    color: rgb(135, 75, 192);
+    text-align: center;
+
+}
+
+.imagem {
+    width: 30%;
+    margin-left: 35%;
+}
+
+h2 {
+    color: blueviolet;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(229, 200, 255);
+}
